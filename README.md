@@ -11,7 +11,7 @@
 - Vertically and horizontally align box & text. 
 - Must work in all browsers.
 
-Please create an account on JSFiddle and share solution. 
+*Please create an account on JSFiddle and share solution. 
 This test shouldn't take more than 20 minutes. 
-Upon completion please share fiddle. 
-https://jsfiddle.net/
+Upon completion please share fiddle.* 
+**https://jsfiddle.net/**
