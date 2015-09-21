@@ -10,3 +10,6 @@
 - Text color must be white. 
 - Vertically and horizontally align box & text. 
 - Must work in all browsers.
+
+Please create an account on JSFiddle and share solution. This test shouldn't take more than 20 minutes. Good luck. 
+https://jsfiddle.net/
