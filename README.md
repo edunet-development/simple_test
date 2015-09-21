@@ -9,4 +9,4 @@
 - Font Size must be 30px.
 - Text color must be white. 
 - Vertically and horizontally align box & text. 
-- Must work in all browsers
+- Must work in all browsers.
